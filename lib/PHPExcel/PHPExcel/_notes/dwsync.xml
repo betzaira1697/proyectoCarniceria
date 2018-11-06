@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="E:/xampp/htdocs/delca/" local="130876102653501534" remote="130876102650000000" Dst="2" />
+<file name="CachedObjectStorageFactory.php" server="E:/xampp/htdocs/delca/" local="130876102629184785" remote="130876102620000000" Dst="2" />
+<file name="Calculation.php" server="E:/xampp/htdocs/delca/" local="130876102692129128" remote="130876102690000000" Dst="2" />
+<file name="Cell.php" server="E:/xampp/htdocs/delca/" local="130876102661388824" remote="130876102660000000" Dst="2" />
+<file name="Chart.php" server="E:/xampp/htdocs/delca/" local="130876102652911162" remote="130876102650000000" Dst="2" />
+<file name="Comment.php" server="E:/xampp/htdocs/delca/" local="130876102614735826" remote="130876102610000000" Dst="2" />
+<file name="DocumentProperties.php" server="E:/xampp/htdocs/delca/" local="130876102685184217" remote="130876102680000000" Dst="2" />
+<file name="DocumentSecurity.php" server="E:/xampp/htdocs/delca/" local="130876102619308214" remote="130876102610000000" Dst="2" />
+<file name="Exception.php" server="E:/xampp/htdocs/delca/" local="130876102660237960" remote="130876102660000000" Dst="2" />
+<file name="HashTable.php" server="E:/xampp/htdocs/delca/" local="130876102623321150" remote="130876102620000000" Dst="2" />
+<file name="IComparable.php" server="E:/xampp/htdocs/delca/" local="130876102646696650" remote="130876102640000000" Dst="2" />
+<file name="IOFactory.php" server="E:/xampp/htdocs/delca/" local="130876102669207934" remote="130876102660000000" Dst="2" />
+<file name="NamedRange.php" server="E:/xampp/htdocs/delca/" local="130876102668617514" remote="130876102660000000" Dst="2" />
+<file name="ReferenceHelper.php" server="E:/xampp/htdocs/delca/" local="130876102636833208" remote="130876102630000000" Dst="2" />
+<file name="RichText.php" server="E:/xampp/htdocs/delca/" local="130876102608229427" remote="130876102600000000" Dst="2" />
+<file name="Settings.php" server="E:/xampp/htdocs/delca/" local="130876102635652374" remote="130876102630000000" Dst="2" />
+<file name="Style.php" server="E:/xampp/htdocs/delca/" local="130876102677279111" remote="130876102670000000" Dst="2" />
+<file name="Worksheet.php" server="E:/xampp/htdocs/delca/" local="130876102698487991" remote="130876102690000000" Dst="2" />
+<file name="WorksheetIterator.php" server="E:/xampp/htdocs/delca/" local="130876102646270202" remote="130876102640000000" Dst="2" />
+<file name="Autoloader.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102653501534" remote="130876102650000000" Dst="2" />
+<file name="CachedObjectStorageFactory.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102629184785" remote="130876102620000000" Dst="2" />
+<file name="Calculation.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102692129128" remote="130876102690000000" Dst="2" />
+<file name="Cell.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102661388824" remote="130876102660000000" Dst="2" />
+<file name="Chart.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102652911162" remote="130876102650000000" Dst="2" />
+<file name="Comment.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102614735826" remote="130876102610000000" Dst="2" />
+<file name="DocumentProperties.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102685184217" remote="130876102680000000" Dst="2" />
+<file name="DocumentSecurity.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102619308214" remote="130876102610000000" Dst="2" />
+<file name="Exception.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102660237960" remote="130876102660000000" Dst="2" />
+<file name="HashTable.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102623321150" remote="130876102620000000" Dst="2" />
+<file name="IComparable.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102646696650" remote="130876102640000000" Dst="2" />
+<file name="IOFactory.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102669207934" remote="130876102660000000" Dst="2" />
+<file name="NamedRange.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102668617514" remote="130876102660000000" Dst="2" />
+<file name="ReferenceHelper.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102636833208" remote="130876102630000000" Dst="2" />
+<file name="RichText.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102608229427" remote="130876102600000000" Dst="2" />
+<file name="Settings.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102635652374" remote="130876102630000000" Dst="2" />
+<file name="Style.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102677279111" remote="130876102670000000" Dst="2" />
+<file name="Worksheet.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102698487991" remote="130876102690000000" Dst="2" />
+<file name="WorksheetIterator.php" server="E:/xampp/htdocs/delca/almacen/" local="130876102646270202" remote="130876102640000000" Dst="2" />
+</dwsync>
