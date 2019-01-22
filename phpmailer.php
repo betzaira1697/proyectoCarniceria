@@ -18,7 +18,7 @@ $phpmailer->Port = 465;
 $phpmailer->IsSMTP(); // use SMTP
 $phpmailer->SMTPAuth = true;
 $phpmailer->setFrom('p029846@gmail.com', 'Carnes Frias ');
-$phpmailer->addAddress('betza1697@gamail.com', 'Betzaira');
+$phpmailer->addAddress('betza1697@gmail.com', 'Betzaira');
 $phpmailer->Subject = 'Prueba phpmailer';	
 $phpmailer->Body .="<h1 style='color:#3498db;'>Hola Mundo!</h1>";
 $phpmailer->Body .= "<p>Mensaje personalizado</p>";
