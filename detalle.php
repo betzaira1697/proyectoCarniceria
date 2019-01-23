@@ -77,7 +77,7 @@
 
                     if(isset($_GET["clave"])){
 
-                  $buscar="SELECT clave, nombre_producto, precio, foto, describcion
+                  $buscar="SELECT clave, nombre_producto, precio, foto
                             FROM producto
                              WHERE clave = ".$_GET["clave"];
 
@@ -95,12 +95,7 @@
                               <img alt="" src="img/arreglos/'.$obj_buscar->foto.'">     
  
                               <p>Precio $'.$obj_buscar->precio.'</p>
-
-                              <a href="_carrito.php?pedido=1&id_producto='.$obj_buscar->clave.'&nom_producto='.$obj_buscar->nombre_producto.'&cantidad=1&precio='.$obj_buscar->precio.'" class="btn btn-1">Comprar</a>
-                                   <p>Precio $'.$obj_buscar->describcion.'</p>'
-
-                              ;
-
+                              <a href="_carrito.php?pedido=1&id_producto='.$obj_buscar->clave.'&nom_producto='.$obj_buscar->nombre_producto.'&cantidad=1&precio='.$obj_buscar->precio.'" class="btn btn-1">Comprar</a>';
 
                    }else{
 
